@@ -1,1 +1,0 @@
-# GeoGuessr_AI
